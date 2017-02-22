@@ -1,0 +1,24 @@
+.backGame{
+	background: #ddd;
+	height:400px;
+}
+.chat{
+	background: grey;
+	height: 400px;
+}
+.msg{
+	text-shadow:1px 1px 10px black;
+	box-shadow:inset 1px 1px 10px #707070;
+	font-weight:700;
+	font-size: 3em;
+	margin: auto;
+	color:black;
+	text-align: center;
+	padding: 25px;
+}
+.player{
+	position: absolute;
+	left:485px;
+	bottom: 510px;
+	width: 35px;
+}
