@@ -13,7 +13,7 @@
 			<div class="row"> <!-- main screen where all will will happen  |||  reponsive -->
 				<div class="col-md-12">
 					<!-- main message -->
-					<h1>WELCOME</h1>
+					<h1>rluan 1</h1>
 					<div class="row">
 						<div class="col-md-9">
 							<!-- here is the game -->
@@ -26,6 +26,7 @@
 							<div class="chat" >
 								
 							</div>
+
 						</div>
 					</div>
 				</div>
